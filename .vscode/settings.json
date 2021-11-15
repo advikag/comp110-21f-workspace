@@ -13,7 +13,7 @@
         "tools": true
     },
     "editor.minimap.enabled": false,
-    "python.linting.enabled": true,
+    "python.linting.enabled": false,
     "python.linting.flake8Enabled": true,
     "python.linting.pylintEnabled": false,
     "python.testing.unittestEnabled": false,
